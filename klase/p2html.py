@@ -5,9 +5,9 @@ class tags:
         self.tags = tags
 
     def ispisi():
-        if self.tag == "paragraf"
+        if self.tag == "paragraf":
             self.contents += tags[0]
-        if self.tag == "header"
+        if self.tag == "header":
             self.contents += tags[1]
         
         
