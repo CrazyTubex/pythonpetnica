@@ -19,7 +19,7 @@ class PrimeGenerator :
                 on = False
             i += 1
             print(i)
-            return self.prostibrojevi
+            return self.prostibrojevi[]
 
             
         
