@@ -1,0 +1,7 @@
+version: "Swift version 4.1.2 (swift-4.1.2-RELEASE)"
+options: "8d5839926879855304c5abc315253ac0"
+build_time: [1530551437, 761981890]
+inputs:
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-Thread.git--794142552167904156/Sources/Promise.swift": [1530551429, 0]
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-Thread.git--794142552167904156/Sources/Threading.swift": [1530551429, 0]
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-Thread.git--794142552167904156/Sources/ThreadQueue.swift": [1530551429, 0]

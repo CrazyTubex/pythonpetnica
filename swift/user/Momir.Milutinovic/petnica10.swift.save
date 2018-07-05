@@ -1,0 +1,12 @@
+// skidanje stvari sa neta
+import Foundation
+//let urlString = link ka requestu
+
+if let url = URL(string: urlString) {
+	do {
+		let content = try? String(contentsOf: url, encoding .utf8)
+		print(content)
+	} catch{
+	print("Error !!")
+	}
+}

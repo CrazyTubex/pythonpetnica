@@ -1,0 +1,47 @@
+{
+  "": {
+    "swift-dependencies": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectNet.build/master.swiftdeps"
+  },
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-Net.git-6452442335899143316/Sources/PerfectNet/Net.swift": {
+    "dependencies": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectNet.build/Net.d",
+    "object": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectNet.build/Net.swift.o",
+    "swiftmodule": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectNet.build/Net~partial.swiftmodule",
+    "swift-dependencies": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectNet.build/Net.swiftdeps"
+  },
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-Net.git-6452442335899143316/Sources/PerfectNet/NetAddress.swift": {
+    "dependencies": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectNet.build/NetAddress.d",
+    "object": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectNet.build/NetAddress.swift.o",
+    "swiftmodule": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectNet.build/NetAddress~partial.swiftmodule",
+    "swift-dependencies": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectNet.build/NetAddress.swiftdeps"
+  },
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-Net.git-6452442335899143316/Sources/PerfectNet/NetEvent.swift": {
+    "dependencies": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectNet.build/NetEvent.d",
+    "object": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectNet.build/NetEvent.swift.o",
+    "swiftmodule": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectNet.build/NetEvent~partial.swiftmodule",
+    "swift-dependencies": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectNet.build/NetEvent.swiftdeps"
+  },
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-Net.git-6452442335899143316/Sources/PerfectNet/NetNamedPipe.swift": {
+    "dependencies": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectNet.build/NetNamedPipe.d",
+    "object": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectNet.build/NetNamedPipe.swift.o",
+    "swiftmodule": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectNet.build/NetNamedPipe~partial.swiftmodule",
+    "swift-dependencies": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectNet.build/NetNamedPipe.swiftdeps"
+  },
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-Net.git-6452442335899143316/Sources/PerfectNet/NetTCP.swift": {
+    "dependencies": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectNet.build/NetTCP.d",
+    "object": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectNet.build/NetTCP.swift.o",
+    "swiftmodule": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectNet.build/NetTCP~partial.swiftmodule",
+    "swift-dependencies": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectNet.build/NetTCP.swiftdeps"
+  },
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-Net.git-6452442335899143316/Sources/PerfectNet/NetTCPSSL.swift": {
+    "dependencies": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectNet.build/NetTCPSSL.d",
+    "object": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectNet.build/NetTCPSSL.swift.o",
+    "swiftmodule": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectNet.build/NetTCPSSL~partial.swiftmodule",
+    "swift-dependencies": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectNet.build/NetTCPSSL.swiftdeps"
+  },
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-Net.git-6452442335899143316/Sources/PerfectNet/NetUDP.swift": {
+    "dependencies": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectNet.build/NetUDP.d",
+    "object": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectNet.build/NetUDP.swift.o",
+    "swiftmodule": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectNet.build/NetUDP~partial.swiftmodule",
+    "swift-dependencies": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectNet.build/NetUDP.swiftdeps"
+  }
+}

@@ -1,0 +1,132 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "handler"
+- "confData"
+provides-nominal:
+provides-member:
+depends-top-level:
+- "Array"
+- "BooleanLiteralType"
+- "Dictionary"
+- "FloatLiteralType"
+- "HTTPRequest"
+- "HTTPResponse"
+- "HTTPServer"
+- "IntegerLiteralType"
+- "PerfectHTTPServer"
+- "StringLiteralType"
+- "UnicodeScalarType"
+- "confData"
+- "fatalError"
+- "handler"
+depends-member:
+- ["s23BidirectionalCollectionP", "init"]
+- ["s10CollectionP", "init"]
+- ["s10ComparableP", "init"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- ["s17CustomReflectableP", "init"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s9DecodableP", "init"]
+- ["s9EncodableP", "init"]
+- ["s9EquatableP", "init"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["17PerfectHTTPServer10HTTPFilterV", "contentCompression"]
+- ["17PerfectHTTPServer11HTTPHandlerV", "staticFiles"]
+- !private ["11PerfectHTTP12HTTPResponseP", "appendBody"]
+- !private ["11PerfectHTTP12HTTPResponseP", "completed"]
+- !private ["11PerfectHTTP12HTTPResponseP", "setHeader"]
+- ["17PerfectHTTPServer0B0C", "launch"]
+- ["s8HashableP", "init"]
+- ["10PerfectLib15JSONConvertibleP", "init"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s10MirrorPathP", "init"]
+- !private ["11PerfectHTTP18HTTPResponseHeaderO4NameO", "contentType"]
+- ["s26RangeReplaceableCollectionP", "init"]
+- ["s8SequenceP", "init"]
+- ["17PerfectHTTPServer14ServerInstanceP", "launch"]
+- ["s12StaticStringV", "init"]
+- ["SS", "init"]
+- ["s14StringProtocolP", "init"]
+- ["s16TextOutputStreamP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- ["10Foundation13_CFBridgeableP", "init"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- ["10Foundation13_NSBridgeableP", "init"]
+- ["10Foundation17_ObjectBridgeableP", "init"]
+- ["10Foundation21_ObjectTypeBridgeableP", "init"]
+- ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- "s23BidirectionalCollectionP"
+- "s10CollectionP"
+- "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "s9DecodableP"
+- "s9EncodableP"
+- "s9EquatableP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "17PerfectHTTPServer10HTTPFilterV"
+- "17PerfectHTTPServer11HTTPHandlerV"
+- !private "11PerfectHTTP12HTTPResponseP"
+- "17PerfectHTTPServer0B0C"
+- "s8HashableP"
+- "10PerfectLib15JSONConvertibleP"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- !private "11PerfectHTTP18HTTPResponseHeaderO4NameO"
+- "s26RangeReplaceableCollectionP"
+- "s8SequenceP"
+- "17PerfectHTTPServer14ServerInstanceP"
+- "s12StaticStringV"
+- "SS"
+- "s14StringProtocolP"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- "10Foundation13_CFBridgeableP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- "10Foundation13_NSBridgeableP"
+- "10Foundation17_ObjectBridgeableP"
+- "10Foundation21_ObjectTypeBridgeableP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectHTTP.swiftmodule"
+- "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectLib.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectThread.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectCrypto.swiftmodule"
+- "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectHTTPServer.swiftmodule"
+- "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectNet.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-CZlib-src.git--5335912686196338304/PerfectCZlib/include/../zlib.h"
+- "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-CZlib-src.git--5335912686196338304/PerfectCZlib/include/czlib.h"
+- "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-LinuxBridge.git--857502363204932241/LinuxBridge/include/LinuxBridge.h"
+- "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-CZlib-src.git--5335912686196338304/PerfectCZlib/include/../zconf.h"
+- "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-CZlib-src.git--5335912686196338304/PerfectCZlib/include/../zutil.h"
+- "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-COpenSSL-Linux.git--1081412588593993798/COpenSSL/include/openssl.h"
+- "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--3890913237083553004/Sources/PerfectCHTTPParser/include/http_parser.h"
+- "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-CZlib-src.git--5335912686196338304/PerfectCZlib/include/../inftrees.h"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/LinuxBridge.build/module.modulemap"
+- "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-COpenSSL-Linux.git--1081412588593993798/COpenSSL/include/module.modulemap"
+- "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-CZlib-src.git--5335912686196338304/PerfectCZlib/include/module.modulemap"
+- "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--3890913237083553004/Sources/PerfectCHTTPParser/include/module.modulemap"
+interface-hash: "53992848b3e8d2b850908650da36f289"

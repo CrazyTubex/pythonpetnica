@@ -1,0 +1,65 @@
+{
+  "": {
+    "swift-dependencies": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectHTTP.build/master.swiftdeps"
+  },
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-HTTP.git-5256129367415923432/Sources/PerfectHTTP/HTTPFilter.swift": {
+    "dependencies": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectHTTP.build/HTTPFilter.d",
+    "object": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectHTTP.build/HTTPFilter.swift.o",
+    "swiftmodule": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectHTTP.build/HTTPFilter~partial.swiftmodule",
+    "swift-dependencies": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectHTTP.build/HTTPFilter.swiftdeps"
+  },
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-HTTP.git-5256129367415923432/Sources/PerfectHTTP/HTTPHeaders.swift": {
+    "dependencies": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectHTTP.build/HTTPHeaders.d",
+    "object": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectHTTP.build/HTTPHeaders.swift.o",
+    "swiftmodule": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectHTTP.build/HTTPHeaders~partial.swiftmodule",
+    "swift-dependencies": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectHTTP.build/HTTPHeaders.swiftdeps"
+  },
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-HTTP.git-5256129367415923432/Sources/PerfectHTTP/HTTPMethod.swift": {
+    "dependencies": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectHTTP.build/HTTPMethod.d",
+    "object": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectHTTP.build/HTTPMethod.swift.o",
+    "swiftmodule": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectHTTP.build/HTTPMethod~partial.swiftmodule",
+    "swift-dependencies": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectHTTP.build/HTTPMethod.swiftdeps"
+  },
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-HTTP.git-5256129367415923432/Sources/PerfectHTTP/HTTPRequest.swift": {
+    "dependencies": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectHTTP.build/HTTPRequest.d",
+    "object": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectHTTP.build/HTTPRequest.swift.o",
+    "swiftmodule": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectHTTP.build/HTTPRequest~partial.swiftmodule",
+    "swift-dependencies": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectHTTP.build/HTTPRequest.swiftdeps"
+  },
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-HTTP.git-5256129367415923432/Sources/PerfectHTTP/HTTPResponse.swift": {
+    "dependencies": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectHTTP.build/HTTPResponse.d",
+    "object": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectHTTP.build/HTTPResponse.swift.o",
+    "swiftmodule": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectHTTP.build/HTTPResponse~partial.swiftmodule",
+    "swift-dependencies": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectHTTP.build/HTTPResponse.swiftdeps"
+  },
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-HTTP.git-5256129367415923432/Sources/PerfectHTTP/MimeReader.swift": {
+    "dependencies": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectHTTP.build/MimeReader.d",
+    "object": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectHTTP.build/MimeReader.swift.o",
+    "swiftmodule": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectHTTP.build/MimeReader~partial.swiftmodule",
+    "swift-dependencies": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectHTTP.build/MimeReader.swiftdeps"
+  },
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-HTTP.git-5256129367415923432/Sources/PerfectHTTP/MimeType.swift": {
+    "dependencies": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectHTTP.build/MimeType.d",
+    "object": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectHTTP.build/MimeType.swift.o",
+    "swiftmodule": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectHTTP.build/MimeType~partial.swiftmodule",
+    "swift-dependencies": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectHTTP.build/MimeType.swiftdeps"
+  },
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-HTTP.git-5256129367415923432/Sources/PerfectHTTP/Routing.swift": {
+    "dependencies": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectHTTP.build/Routing.d",
+    "object": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectHTTP.build/Routing.swift.o",
+    "swiftmodule": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectHTTP.build/Routing~partial.swiftmodule",
+    "swift-dependencies": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectHTTP.build/Routing.swiftdeps"
+  },
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-HTTP.git-5256129367415923432/Sources/PerfectHTTP/StaticFileHandler.swift": {
+    "dependencies": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectHTTP.build/StaticFileHandler.d",
+    "object": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectHTTP.build/StaticFileHandler.swift.o",
+    "swiftmodule": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectHTTP.build/StaticFileHandler~partial.swiftmodule",
+    "swift-dependencies": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectHTTP.build/StaticFileHandler.swiftdeps"
+  },
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-HTTP.git-5256129367415923432/Sources/PerfectHTTP/TypedRoutes.swift": {
+    "dependencies": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectHTTP.build/TypedRoutes.d",
+    "object": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectHTTP.build/TypedRoutes.swift.o",
+    "swiftmodule": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectHTTP.build/TypedRoutes~partial.swiftmodule",
+    "swift-dependencies": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectHTTP.build/TypedRoutes.swiftdeps"
+  }
+}

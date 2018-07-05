@@ -1,0 +1,15 @@
+let mojString = "sdfjksfh3498345f"
+var znaci = [Character: Int]()
+for c in mojString {
+	if let znak = znaci[c] {
+		znaci[c] = znaci[c]! + 1
+	} else{
+		znaci[c] = 1
+	}
+}
+print(mojString)
+print(znaci)
+let cifre = znaci.filter({
+	(a: [Character: Int]) -> Bool in
+	return a.key>=0
+})

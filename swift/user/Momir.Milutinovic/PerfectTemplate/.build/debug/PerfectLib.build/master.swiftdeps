@@ -1,0 +1,13 @@
+version: "Swift version 4.1.2 (swift-4.1.2-RELEASE)"
+options: "1fcd63775781b6a8044e0fc8cefafdb8"
+build_time: [1530552084, 35370065]
+inputs:
+  "/home/user/Momir.Milutinovic/PerfectTemplate/.build/checkouts/PerfectLib.git-902226119893380327/Sources/PerfectLib/Bytes.swift": [1530552078, 0]
+  "/home/user/Momir.Milutinovic/PerfectTemplate/.build/checkouts/PerfectLib.git-902226119893380327/Sources/PerfectLib/Dir.swift": [1530552078, 0]
+  "/home/user/Momir.Milutinovic/PerfectTemplate/.build/checkouts/PerfectLib.git-902226119893380327/Sources/PerfectLib/File.swift": [1530552078, 0]
+  "/home/user/Momir.Milutinovic/PerfectTemplate/.build/checkouts/PerfectLib.git-902226119893380327/Sources/PerfectLib/JSONConvertible.swift": [1530552078, 0]
+  "/home/user/Momir.Milutinovic/PerfectTemplate/.build/checkouts/PerfectLib.git-902226119893380327/Sources/PerfectLib/Log.swift": [1530552078, 0]
+  "/home/user/Momir.Milutinovic/PerfectTemplate/.build/checkouts/PerfectLib.git-902226119893380327/Sources/PerfectLib/PerfectError.swift": [1530552078, 0]
+  "/home/user/Momir.Milutinovic/PerfectTemplate/.build/checkouts/PerfectLib.git-902226119893380327/Sources/PerfectLib/PerfectServer.swift": [1530552078, 0]
+  "/home/user/Momir.Milutinovic/PerfectTemplate/.build/checkouts/PerfectLib.git-902226119893380327/Sources/PerfectLib/SysProcess.swift": [1530552078, 0]
+  "/home/user/Momir.Milutinovic/PerfectTemplate/.build/checkouts/PerfectLib.git-902226119893380327/Sources/PerfectLib/Utilities.swift": [1530552078, 0]

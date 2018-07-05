@@ -1,0 +1,5 @@
+version: "Swift version 4.1.2 (swift-4.1.2-RELEASE)"
+options: "69ffaca5ecf5981d9f25540704d6d44d"
+build_time: [1530559350, 181316473]
+inputs:
+  "/home/user/Momir.Milutinovic/PerfectTemplate/Sources/main.swift": [1530559338, 0]

@@ -1,0 +1,14 @@
+version: "Swift version 4.1.2 (swift-4.1.2-RELEASE)"
+options: "43710d5180ab0dbe8a7740582811fb4a"
+build_time: [1530551479, 512573494]
+inputs:
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-HTTP.git-5256129367415923432/Sources/PerfectHTTP/HTTPFilter.swift": [1530551429, 0]
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-HTTP.git-5256129367415923432/Sources/PerfectHTTP/HTTPHeaders.swift": [1530551429, 0]
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-HTTP.git-5256129367415923432/Sources/PerfectHTTP/HTTPMethod.swift": [1530551429, 0]
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-HTTP.git-5256129367415923432/Sources/PerfectHTTP/HTTPRequest.swift": [1530551429, 0]
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-HTTP.git-5256129367415923432/Sources/PerfectHTTP/HTTPResponse.swift": [1530551429, 0]
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-HTTP.git-5256129367415923432/Sources/PerfectHTTP/MimeReader.swift": [1530551429, 0]
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-HTTP.git-5256129367415923432/Sources/PerfectHTTP/MimeType.swift": [1530551429, 0]
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-HTTP.git-5256129367415923432/Sources/PerfectHTTP/Routing.swift": [1530551429, 0]
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-HTTP.git-5256129367415923432/Sources/PerfectHTTP/StaticFileHandler.swift": [1530551429, 0]
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-HTTP.git-5256129367415923432/Sources/PerfectHTTP/TypedRoutes.swift": [1530551429, 0]

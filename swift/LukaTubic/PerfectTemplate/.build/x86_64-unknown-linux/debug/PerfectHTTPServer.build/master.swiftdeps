@@ -1,0 +1,22 @@
+version: "Swift version 4.1.2 (swift-4.1.2-RELEASE)"
+options: "befa7423e8e4a3649fa469c416da63a0"
+build_time: [1530551517, 127686278]
+inputs:
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--3890913237083553004/Sources/PerfectHTTPServer/HTTP11/HTTP11Request.swift": [1530551429, 0]
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--3890913237083553004/Sources/PerfectHTTPServer/HTTP11/HTTP11Response.swift": [1530551429, 0]
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--3890913237083553004/Sources/PerfectHTTPServer/HTTP2/HPACK.swift": [1530551429, 0]
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--3890913237083553004/Sources/PerfectHTTPServer/HTTP2/HTTP2.swift": [1530551429, 0]
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--3890913237083553004/Sources/PerfectHTTPServer/HTTP2/HTTP2Client.swift": [1530551429, 0]
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--3890913237083553004/Sources/PerfectHTTPServer/HTTP2/HTTP2Frame.swift": [1530551429, 0]
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--3890913237083553004/Sources/PerfectHTTPServer/HTTP2/HTTP2FrameReader.swift": [1530551429, 0]
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--3890913237083553004/Sources/PerfectHTTPServer/HTTP2/HTTP2FrameWriter.swift": [1530551429, 0]
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--3890913237083553004/Sources/PerfectHTTPServer/HTTP2/HTTP2PrefaceValidator.swift": [1530551429, 0]
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--3890913237083553004/Sources/PerfectHTTPServer/HTTP2/HTTP2Request.swift": [1530551429, 0]
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--3890913237083553004/Sources/PerfectHTTPServer/HTTP2/HTTP2Response.swift": [1530551429, 0]
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--3890913237083553004/Sources/PerfectHTTPServer/HTTP2/HTTP2Session.swift": [1530551429, 0]
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--3890913237083553004/Sources/PerfectHTTPServer/HTTP2/HTTP2SessionSettings.swift": [1530551429, 0]
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--3890913237083553004/Sources/PerfectHTTPServer/HTTPContentCompression.swift": [1530551429, 0]
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--3890913237083553004/Sources/PerfectHTTPServer/HTTPMultiplexer.swift": [1530551429, 0]
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--3890913237083553004/Sources/PerfectHTTPServer/HTTPServer.swift": [1530551429, 0]
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--3890913237083553004/Sources/PerfectHTTPServer/HTTPServerEx.swift": [1530551429, 0]
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-HTTPServer.git--3890913237083553004/Sources/PerfectHTTPServer/HTTPServerExConfig.swift": [1530551429, 0]

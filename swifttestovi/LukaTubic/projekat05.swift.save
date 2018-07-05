@@ -1,0 +1,16 @@
+let s = "aaabb23ccx"
+
+var dictainory = [Character: Int]()
+
+for c in s
+{
+   if dictainory[c] != nil
+   {
+   dictainory[c] = dictainory[c] + 1
+   }else
+   { 
+     dictainory[c] = 1
+   }
+}
+
+print(dictainory)

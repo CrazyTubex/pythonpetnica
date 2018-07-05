@@ -1,0 +1,4 @@
+module LinuxBridge {
+    umbrella header "/home/user/Momir.Milutinovic/PerfectTemplate/.build/checkouts/Perfect-LinuxBridge.git-939694403397532563/LinuxBridge/include/LinuxBridge.h"
+    export *
+}

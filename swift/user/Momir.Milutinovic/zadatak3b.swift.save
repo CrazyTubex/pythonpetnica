@@ -1,0 +1,4 @@
+let mojString = "f92thg5h"
+
+for c in mojString{
+	let c2 = string*c(

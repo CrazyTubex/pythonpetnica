@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectThread.build/master.swiftdeps"
+  },
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-Thread.git--794142552167904156/Sources/Promise.swift": {
+    "dependencies": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectThread.build/Promise.d",
+    "object": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectThread.build/Promise.swift.o",
+    "swiftmodule": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectThread.build/Promise~partial.swiftmodule",
+    "swift-dependencies": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectThread.build/Promise.swiftdeps"
+  },
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-Thread.git--794142552167904156/Sources/Threading.swift": {
+    "dependencies": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectThread.build/Threading.d",
+    "object": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectThread.build/Threading.swift.o",
+    "swiftmodule": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectThread.build/Threading~partial.swiftmodule",
+    "swift-dependencies": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectThread.build/Threading.swiftdeps"
+  },
+  "/home/user/LukaTubic/PerfectTemplate/.build/checkouts/Perfect-Thread.git--794142552167904156/Sources/ThreadQueue.swift": {
+    "dependencies": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectThread.build/ThreadQueue.d",
+    "object": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectThread.build/ThreadQueue.swift.o",
+    "swiftmodule": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectThread.build/ThreadQueue~partial.swiftmodule",
+    "swift-dependencies": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectThread.build/ThreadQueue.swiftdeps"
+  }
+}

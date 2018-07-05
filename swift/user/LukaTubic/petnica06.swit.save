@@ -1,0 +1,6 @@
+var skup = Set<Int>()
+
+skup.insert(5)
+skup.insert(7)
+
+

@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectTemplate.build/master.swiftdeps"
+  },
+  "/home/user/LukaTubic/PerfectTemplate/Sources/main.swift": {
+    "dependencies": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectTemplate.build/main.d",
+    "object": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectTemplate.build/main.swift.o",
+    "swiftmodule": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectTemplate.build/main~partial.swiftmodule",
+    "swift-dependencies": "/home/user/LukaTubic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectTemplate.build/main.swiftdeps"
+  }
+}

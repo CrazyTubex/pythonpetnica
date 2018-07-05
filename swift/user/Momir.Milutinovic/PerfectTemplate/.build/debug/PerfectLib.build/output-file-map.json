@@ -1,0 +1,59 @@
+{
+  "": {
+    "swift-dependencies": "/home/user/Momir.Milutinovic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectLib.build/master.swiftdeps"
+  },
+  "/home/user/Momir.Milutinovic/PerfectTemplate/.build/checkouts/PerfectLib.git-902226119893380327/Sources/PerfectLib/Bytes.swift": {
+    "dependencies": "/home/user/Momir.Milutinovic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectLib.build/Bytes.d",
+    "object": "/home/user/Momir.Milutinovic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectLib.build/Bytes.swift.o",
+    "swiftmodule": "/home/user/Momir.Milutinovic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectLib.build/Bytes~partial.swiftmodule",
+    "swift-dependencies": "/home/user/Momir.Milutinovic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectLib.build/Bytes.swiftdeps"
+  },
+  "/home/user/Momir.Milutinovic/PerfectTemplate/.build/checkouts/PerfectLib.git-902226119893380327/Sources/PerfectLib/Dir.swift": {
+    "dependencies": "/home/user/Momir.Milutinovic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectLib.build/Dir.d",
+    "object": "/home/user/Momir.Milutinovic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectLib.build/Dir.swift.o",
+    "swiftmodule": "/home/user/Momir.Milutinovic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectLib.build/Dir~partial.swiftmodule",
+    "swift-dependencies": "/home/user/Momir.Milutinovic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectLib.build/Dir.swiftdeps"
+  },
+  "/home/user/Momir.Milutinovic/PerfectTemplate/.build/checkouts/PerfectLib.git-902226119893380327/Sources/PerfectLib/File.swift": {
+    "dependencies": "/home/user/Momir.Milutinovic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectLib.build/File.d",
+    "object": "/home/user/Momir.Milutinovic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectLib.build/File.swift.o",
+    "swiftmodule": "/home/user/Momir.Milutinovic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectLib.build/File~partial.swiftmodule",
+    "swift-dependencies": "/home/user/Momir.Milutinovic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectLib.build/File.swiftdeps"
+  },
+  "/home/user/Momir.Milutinovic/PerfectTemplate/.build/checkouts/PerfectLib.git-902226119893380327/Sources/PerfectLib/JSONConvertible.swift": {
+    "dependencies": "/home/user/Momir.Milutinovic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectLib.build/JSONConvertible.d",
+    "object": "/home/user/Momir.Milutinovic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectLib.build/JSONConvertible.swift.o",
+    "swiftmodule": "/home/user/Momir.Milutinovic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectLib.build/JSONConvertible~partial.swiftmodule",
+    "swift-dependencies": "/home/user/Momir.Milutinovic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectLib.build/JSONConvertible.swiftdeps"
+  },
+  "/home/user/Momir.Milutinovic/PerfectTemplate/.build/checkouts/PerfectLib.git-902226119893380327/Sources/PerfectLib/Log.swift": {
+    "dependencies": "/home/user/Momir.Milutinovic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectLib.build/Log.d",
+    "object": "/home/user/Momir.Milutinovic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectLib.build/Log.swift.o",
+    "swiftmodule": "/home/user/Momir.Milutinovic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectLib.build/Log~partial.swiftmodule",
+    "swift-dependencies": "/home/user/Momir.Milutinovic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectLib.build/Log.swiftdeps"
+  },
+  "/home/user/Momir.Milutinovic/PerfectTemplate/.build/checkouts/PerfectLib.git-902226119893380327/Sources/PerfectLib/PerfectError.swift": {
+    "dependencies": "/home/user/Momir.Milutinovic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectLib.build/PerfectError.d",
+    "object": "/home/user/Momir.Milutinovic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectLib.build/PerfectError.swift.o",
+    "swiftmodule": "/home/user/Momir.Milutinovic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectLib.build/PerfectError~partial.swiftmodule",
+    "swift-dependencies": "/home/user/Momir.Milutinovic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectLib.build/PerfectError.swiftdeps"
+  },
+  "/home/user/Momir.Milutinovic/PerfectTemplate/.build/checkouts/PerfectLib.git-902226119893380327/Sources/PerfectLib/PerfectServer.swift": {
+    "dependencies": "/home/user/Momir.Milutinovic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectLib.build/PerfectServer.d",
+    "object": "/home/user/Momir.Milutinovic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectLib.build/PerfectServer.swift.o",
+    "swiftmodule": "/home/user/Momir.Milutinovic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectLib.build/PerfectServer~partial.swiftmodule",
+    "swift-dependencies": "/home/user/Momir.Milutinovic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectLib.build/PerfectServer.swiftdeps"
+  },
+  "/home/user/Momir.Milutinovic/PerfectTemplate/.build/checkouts/PerfectLib.git-902226119893380327/Sources/PerfectLib/SysProcess.swift": {
+    "dependencies": "/home/user/Momir.Milutinovic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectLib.build/SysProcess.d",
+    "object": "/home/user/Momir.Milutinovic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectLib.build/SysProcess.swift.o",
+    "swiftmodule": "/home/user/Momir.Milutinovic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectLib.build/SysProcess~partial.swiftmodule",
+    "swift-dependencies": "/home/user/Momir.Milutinovic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectLib.build/SysProcess.swiftdeps"
+  },
+  "/home/user/Momir.Milutinovic/PerfectTemplate/.build/checkouts/PerfectLib.git-902226119893380327/Sources/PerfectLib/Utilities.swift": {
+    "dependencies": "/home/user/Momir.Milutinovic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectLib.build/Utilities.d",
+    "object": "/home/user/Momir.Milutinovic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectLib.build/Utilities.swift.o",
+    "swiftmodule": "/home/user/Momir.Milutinovic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectLib.build/Utilities~partial.swiftmodule",
+    "swift-dependencies": "/home/user/Momir.Milutinovic/PerfectTemplate/.build/x86_64-unknown-linux/debug/PerfectLib.build/Utilities.swiftdeps"
+  }
+}
